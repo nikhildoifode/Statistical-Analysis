@@ -3,7 +3,7 @@ Understand the basics of statistical significance testing. We are interested in 
 Analysis of Variance (ANOVA) and Multivariate analysis of variance (MANOVA) tests.
 We will use the R programming language for this.
 
-#Tasks
+Tasks:  
 Imagine that you are conducting user studies to evaluate several types of menus for their performance on navigating.
 Here, please compute ANOVA and pairwise-t-test for each scenario.
 
